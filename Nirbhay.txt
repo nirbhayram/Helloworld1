@@ -1,4 +1,4 @@
 Hello 
 My name is nirbhay and it's 30 of jan 2017 and time is 1:38PM and trying to get familiar with github.
-First time branch created and commiting in that branch.
+First time branch 
 Now it is editing from the browsesr let see what happen?
